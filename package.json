@@ -13,7 +13,7 @@
     "babel-plugin-module-resolver": "^4.0.0",
     "module-resolver": "^1.0.0",
     "react": "16.11.0",
-    "react-native": "0.62.2",
+    "react-native": "0.62.3",
     "react-navigation": "^4.3.9",
     "react-redux": "^7.2.0",
     "redux": "^4.0.5",
